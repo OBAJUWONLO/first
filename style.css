@@ -16,6 +16,11 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(images/20240113_203439.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 h1 {
     font-size: 4rem;
